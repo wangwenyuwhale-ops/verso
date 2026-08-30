@@ -139,22 +139,3 @@ This project is intentionally lightweight and is mainly focused on frontend pres
 This project is for educational and portfolio use.
 
 本项目适合用于学习、展示和作品集使用。
-
-## 💡 Recommended GitHub Repository Description / GitHub 仓库描述建议
-
-```text
-VERSO is an AI creative and knowledge studio landing page concept showcasing writing generation, semantic search, knowledge graph, and collaborative ideation workflows.
-```
-
-```text
-VERSO 是一个 AI 创意与知识工作台的产品页概念，展示 AI 写作、语义检索、知识图谱与协作创意等核心场景。
-```
-
-If you want, I can also help you generate a more premium version of this README with a project screenshot section, badges, and a Chinese-English bilingual polish for GitHub upload.
-
-如果你愿意，我还可以继续帮你补一版更“GitHub 风格”的精修 README，包括：
-
-- 项目截图区
-- 更高级的徽章设计
-- 更适合发布到 GitHub 的中英文优化版
-- 适合首页展示的仓库介绍文案
